@@ -1,2 +1,2 @@
 # Audio Calculator
-Android scientific calculator App for sound engineer, especially in electric engineers.
+Android scientific calculator App for audio, especially in electric engineers.
